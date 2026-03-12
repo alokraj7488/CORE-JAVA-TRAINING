@@ -1,0 +1,3 @@
+class ScientificCalculator extends BasicCalculator{
+
+}

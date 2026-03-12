@@ -1,0 +1,3 @@
+interface Closeable {
+	void close();
+}

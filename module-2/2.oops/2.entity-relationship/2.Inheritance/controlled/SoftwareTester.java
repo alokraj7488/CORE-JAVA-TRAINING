@@ -1,0 +1,3 @@
+class SoftwareTester extends SoftwareEngineer {
+	
+}
