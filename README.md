@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CORE_JAVA
 This is my learning log for Core Java.
 
@@ -8,3 +9,6 @@ It’s not polished. It’s not a tutorial. It’s just me figuring things out, 
 If you’re on a similar path, maybe you’ll find something useful. And if you’ve been through this already—feel free to point out what I’ve missed. I’m all ears.
 
 Thanks for stopping by.
+=======
+# CORE-JAVA
+>>>>>>> 312d428ffd61296ba81a5c38f940e646059f8292
